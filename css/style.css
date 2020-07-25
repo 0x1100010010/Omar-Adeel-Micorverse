@@ -5,7 +5,7 @@
     background-color : lightgray;
 }
 
-#intor{
+#intro{
     display: flex;
     flex-flow: column;
     align-items: center;
@@ -21,4 +21,8 @@
     display: flex;  
     flex-flow: column;
     align-items: center;
+}
+
+#image{
+    max-width: 100%;
 }
